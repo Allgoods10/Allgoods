@@ -3,46 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ditt Namn Clothing</title>
+  <title>AllGoods - Kläder</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
   <header>
-    <div class="logo">Ditt Namn</div>
-    <nav>
-      <ul>
-        <li><a href="#">Hem</a></li>
-        <li><a href="#">Shop</a></li>
-        <li><a href="#">Kontakt</a></li>
-      </ul>
-    </nav>
+    <h1>AllGoods</h1>
+    <p>Välkommen till vår klädshop!</p>
   </header>
 
-  <section class="hero">
-    <h1>Välkommen till Ditt Namn Clothing</h1>
-    <p>Stilrena kläder för alla tillfällen.</p>
-  </section>
-
   <section class="produkter">
-    <h2>Våra produkter</h2>
-    <div class="produktlista">
-      <div class="produkt">
-        <img src="images/tshirt1.jpg" alt="T-shirt" />
-        <h3>Vit T-shirt</h3>
-        <p>199 kr</p>
-      </div>
-      <div class="produkt">
-        <img src="images/hoodie1.jpg" alt="Hoodie" />
-        <h3>Svart Hoodie</h3>
-        <p>399 kr</p>
-      </div>
+    <div class="produkt">
+      <img src="images/tshirt1.jpg" alt="T-shirt" />
+      <h2>T-shirt</h2>
+      <p>Pris: 199 kr</p>
+    </div>
+
+    <div class="produkt">
+      <img src="images/hoodie1.jpg" alt="Hoodie" />
+      <h2>Hoodie</h2>
+      <p>Pris: 399 kr</p>
     </div>
   </section>
 
   <footer>
-    <p>© 2025 Ditt Namn Clothing</p>
+    <p>© 2025 AllGoods</p>
   </footer>
-
 </body>
 </html>
+
