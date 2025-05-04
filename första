@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AllGoods – Klädshop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AllGoods</h1>
+    <p>Välkommen till vår klädshop!</p>
+  </header>
+
+  <section class="produkter">
+    <div class="produkt">
+      <img src="bilder/tshirt1.jpg" alt="T-shirt">
+      <h2>T-shirt</h2>
+      <p>199 kr</p>
+    </div>
+    <div class="produkt">
+      <img src="bilder/hoodie1.jpg" alt="Hoodie">
+      <h2>Hoodie</h2>
+      <p>399 kr</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 AllGoods</p>
+  </footer>
+</body>
+</html>
